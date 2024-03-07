@@ -1,3 +1,0 @@
-C:/Users/kps93/github_Cprogram/firstCproject/cmake-build-debug/CMakeFiles/firstCproject.dir
-C:/Users/kps93/github_Cprogram/firstCproject/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kps93/github_Cprogram/firstCproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
